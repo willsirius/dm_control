@@ -43,7 +43,7 @@ Follow these steps to install `dm_control`:
 
 Install `GLFW` and `GLEW` through your Linux distribution's package manager.
 For example, on Debian and Ubuntu, this can be done by running
-`sudo apt-get install libglfw3 libglew2.0`.
+`sudo apt-get install libglfw3 libglew-dev`.
 
 ## Additional instructions for Homebrew users on macOS
 
